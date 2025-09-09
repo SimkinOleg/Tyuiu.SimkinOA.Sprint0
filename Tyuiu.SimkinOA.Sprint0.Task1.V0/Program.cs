@@ -11,8 +11,8 @@ namespace Tyuiu.SimkinOA.Sprint0.Task1.V0
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World");
-            string name = "Игорь";
-            int age = 45;
+            string name = "Олег";
+            int age = 18;
             Console.WriteLine("Здравствуйте меня зовут "+name+" мне "+age+" лет!");
 
             Console.ReadKey();
